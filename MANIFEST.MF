@@ -1,0 +1,2 @@
+Main-Class: Reset
+Class-Path: mssql-jdbc-12.6.1.jre11.jar
